@@ -1,0 +1,39 @@
+/* COMMON */
+img {
+    max-width: 100%;
+}
+
+/* HEADER */
+header {
+    height: 60px;
+    background-color: #e6e6e6;
+}
+/* MAIN */
+
+h1 {
+    font-size: 2rem;
+}
+
+h1 span {
+    color: rgba(0, 223, 107, 1);
+}
+
+.card-body {
+    height: 190px;
+}
+
+/* FOOTER */
+
+footer {
+    height: 70px;
+    background-color: #e6e6e6;
+}
+
+footer h2 {
+    color: rgba(0, 22, 50, 1);
+    font-size: 1.5rem;
+}
+
+footer h2 span {
+    color: rgba(0, 223, 107, 1);
+}
